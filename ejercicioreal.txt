@@ -1,1 +1,2 @@
-Versión que causara conflicto
+
+conflicto
